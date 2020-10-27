@@ -9,8 +9,7 @@ initProgressBar();
 
 function initProgressBar() {
     var bars = document.querySelectorAll(".progressbar-circle");
-    console.log(bars);
-    
+
     for (var i = 0; i < bars.length; i++) {
       createCircleProgressbar(bars[i]);
     }
@@ -36,11 +35,11 @@ function createCircleProgressbar(el) {
             var vv = Math.round(circle.value() * 100);
             circle.setText("<h2 class='percent-value'>" + vv + "<small>%</small></h2><small>" + note + "</small>");
         }
+    }, function() {
+        window.dispatchEvent(new Event('resize'));
     })
     bar.text.style.color = '#555';
     bar.text.style.width = '100%';
-    console.log(bar.text.style);
-    
     bar.animate(value / 100);
 }
 
