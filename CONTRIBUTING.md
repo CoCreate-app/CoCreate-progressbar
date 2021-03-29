@@ -1,19 +1,19 @@
-# Contributing to CoCreate-progressbar
+# Contributing to CoCreate-progress-bar
 
-This project is work of [many contributors](https://github.com/CoCreate-app/CoCreate-progressbar/graphs/contributors).
-You're encouraged to submit [pull requests](https://github.com/CoCreate-app/CoCreate-progressbar/pulls),
-[propose features and discuss issues](https://github.com/CoCreate-app/CoCreate-progressbar/issues).
+This project is work of [many contributors](https://github.com/CoCreate-app/CoCreate-progress-bar/graphs/contributors).
+You're encouraged to submit [pull requests](https://github.com/CoCreate-app/CoCreate-progress-bar/pulls),
+[propose features and discuss issues](https://github.com/CoCreate-app/CoCreate-progress-bar/issues).
 
 In the examples below, substitute your Github username for `contributor` in URLs.
 
 ## Fork the Project
 
-Fork the [project on Github](https://github.com/CoCreate-app/CoCreate-progressbar) and check out your copy.
+Fork the [project on Github](https://github.com/CoCreate-app/CoCreate-progress-bar) and check out your copy.
 
 ```
-git progressbar https://github.com/contributor/CoCreate-progressbar.git
-cd CoCreate-progressbar
-git remote add upstream https://github.com/CoCreate-app/CoCreate-progressbar.git
+git progress-bar https://github.com/contributor/CoCreate-progress-bar.git
+cd CoCreate-progress-bar
+git remote add upstream https://github.com/CoCreate-app/CoCreate-progress-bar.git
 ```
 
 ## Create a Topic Branch
@@ -75,7 +75,7 @@ git push origin my-feature-branch
 
 ## Make a Pull Request
 
-Go to [https://github.com/CoCreate-app/CoCreate-progressbar](https://github.com/CoCreate-app/CoCreate-progressbar) and select your feature branch.
+Go to [https://github.com/CoCreate-app/CoCreate-progress-bar](https://github.com/CoCreate-app/CoCreate-progress-bar) and select your feature branch.
 Click the 'Pull Request' button and fill out the form. Pull requests are usually reviewed within a few days.
 
 ## Rebase

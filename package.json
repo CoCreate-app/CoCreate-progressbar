@@ -1,9 +1,9 @@
 {
-  "name": "@cocreate/progressbar",
+  "name": "@cocreate/progress-bar",
   "version": "1.0.0",
-  "description": "A simple progressbar component in vanilla javascript. Easily configured using HTML5 data-attributes and/or JavaScript API.",
+  "description": "A simple progress-bar component in vanilla javascript. Easily configured using HTML5 data-attributes and/or JavaScript API.",
   "keywords": [
-    "progressbar",
+    "progress-bar",
     "cocreate",
     "low-code-framework",
     "no-code-framework",
@@ -29,14 +29,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CoCreate-app/CoCreate-progressbar.git"
+    "url": "git+https://github.com/CoCreate-app/CoCreate-progress-bar.git"
   },
   "author": "CoCreate LLC",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CoCreate-app/CoCreate-progressbar/issues"
+    "url": "https://github.com/CoCreate-app/CoCreate-progress-bar/issues"
   },
-  "homepage": "https://cocreate.app/docs/progressbar",
+  "homepage": "https://cocreate.app/docs/progress-bar",
   "funding": {
     "type": "GitHub Sponsors ❤",
     "url": "https://github.com/sponsors/CoCreate-app"

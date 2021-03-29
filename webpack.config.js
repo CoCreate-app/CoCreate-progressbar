@@ -6,14 +6,14 @@ const { CleanWebpackPlugin } = require("clean-webpack-plugin")
 
 module.exports = {
   entry: {
-    "CoCreate-progressbar": "./src/index.js",
+    "CoCreate-progress-bar": "./src/index.js",
   },
   output: {
     path: path.resolve(__dirname, "dist"),
     filename: isProduction ? "[name].min.js" : "[name].js",
     libraryTarget: "umd",
     libraryExport: "default",
-    library: ["CoCreate", "progressbar"],
+    library: ["CoCreate", "progress-bar"],
     globalObject: "this",
     // publicPath: 'https://server.cocreate.app/CoCreateJS/dist/'
   },
