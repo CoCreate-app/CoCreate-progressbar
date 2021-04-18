@@ -9,7 +9,7 @@ A simple progress-bar component in vanilla javascript. Easily configured using H
 
 ![CoCreate-progress-bar](https://cdn.cocreate.app/docs/CoCreate-progress-bar.gif)
 
-## [Docs & Demo](https://cocreate.app/docs/clone)
+## [Docs & Demo](https://cocreate.app/docs/progress-bar)
 
 For a complete guide and working demo refer to the [doumentation](https://cocreate.app/docs/progress-bar)
 
