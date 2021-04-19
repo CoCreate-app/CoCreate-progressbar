@@ -1,3 +1,11 @@
+## [1.0.2](https://github.com/CoCreate-app/CoCreate-progress-bar/compare/v1.0.1...v1.0.2) (2021-04-19)
+
+
+### Bug Fixes
+
+* ci and build process ([4dce2de](https://github.com/CoCreate-app/CoCreate-progress-bar/commit/4dce2debb0f8eb2125c0258d66516da402b7b055))
+* npm publish and cdn deployment ([d28392d](https://github.com/CoCreate-app/CoCreate-progress-bar/commit/d28392daed756ddd98fbb9ad93935464a6e5b8f7))
+
 ## [1.0.1](https://github.com/CoCreate-app/CoCreate-progress-bar/compare/v1.0.0...v1.0.1) (2021-03-29)
 
 
