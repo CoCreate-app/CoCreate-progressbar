@@ -1,6 +1,6 @@
 {
   "name": "@cocreate/progress-bar",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple progress-bar component in vanilla javascript. Easily configured using HTML5 data-attributes and/or JavaScript API.",
   "keywords": [
     "progress-bar",
