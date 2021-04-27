@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/CoCreate-app/CoCreate-progress-bar/compare/v1.0.3...v1.0.4) (2021-04-27)
+
+
+### Bug Fixes
+
+* Update to readme, demo, added cdn scripts ([188d5b0](https://github.com/CoCreate-app/CoCreate-progress-bar/commit/188d5b0e1743f61c3c54b8ab074d3a9fec487753))
+
 ## [1.0.3](https://github.com/CoCreate-app/CoCreate-progress-bar/compare/v1.0.2...v1.0.3) (2021-04-23)
 
 
