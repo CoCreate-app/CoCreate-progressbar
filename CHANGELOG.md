@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/CoCreate-app/CoCreate-progress-bar/compare/v1.0.4...v1.0.5) (2021-04-27)
+
+
+### Bug Fixes
+
+* add host in docs ([0365570](https://github.com/CoCreate-app/CoCreate-progress-bar/commit/0365570a10f90e5de71d12f1d1998db351932c4a))
+
 ## [1.0.4](https://github.com/CoCreate-app/CoCreate-progress-bar/compare/v1.0.3...v1.0.4) (2021-04-27)
 
 
