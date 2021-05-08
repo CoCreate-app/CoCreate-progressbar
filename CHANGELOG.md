@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/CoCreate-app/CoCreate-progress-bar/compare/v1.0.5...v1.0.6) (2021-05-08)
+
+
+### Bug Fixes
+
+* add css auto parse and save to docs. ([e11923b](https://github.com/CoCreate-app/CoCreate-progress-bar/commit/e11923bb3499e8fa7d2112532470dd8e8aefe317))
+
 ## [1.0.5](https://github.com/CoCreate-app/CoCreate-progress-bar/compare/v1.0.4...v1.0.5) (2021-04-27)
 
 
